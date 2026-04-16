@@ -10,7 +10,7 @@ The target metric is **Quadratic Weighted Kappa (QWK)**, which emphasizes how cl
 - End-to-end notebook flow: data prep, training loops, validation, and model checkpointing
 
 ## Key Result
-- Best single-branch validation performance in this notebook reached approximately **QWK = 0.3865** (image model branch).
+- Best performance was obtained for an image processing model (ranked third in the competition).
 - Additional fusion/multimodal experiments were implemented to compare combined vs. single-modality behavior.
 
 ## Tech Stack
